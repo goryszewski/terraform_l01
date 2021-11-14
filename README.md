@@ -1,2 +1,13 @@
 # terraform_l01
-learn
+
+Build:
+
+- make init
+
+Run:
+
+- make apply
+
+Destroy:
+
+- make destroy
